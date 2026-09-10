@@ -1,0 +1,1204 @@
+<!DOCTYPE html>
+<html lang="so">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - activity </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1> wax ka fahan sida loo dhiso webset
+    </h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="blog.html">Blog</a>
+        <a href="faq.html">FAQ</a>
+        <a href="team.html">Team</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="contact.html">Contact</a>
+        <a href="login.html">Login</a>
+    </nav>
+</header>
+
+<section class="content">
+    <h2>About Us</h2>
+    <p>
+        macqyul waa website waxbarasho oo kaa caawinaya
+        inaad barato Web Development iyo Technology.
+    </p>
+
+    <div class="cards">
+        <div class="card">
+            <h3>Hadafkeena</h3>
+            <p>In dhalinyarada lagu caawiyo barashada xirfadaha technology-ga.</p>
+        </div>
+
+        <div class="card">
+            <h3>Aragtideena</h3>
+            <p>In la abuuro dhalinyaro leh xirfado casri ah.</p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 activity </p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services - activity </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>activity </h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="blog.html">Blog</a>
+        <a href="faq.html">FAQ</a>
+        <a href="team.html">Team</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="contact.html">Contact</a>
+        <a href="login.html">Login</a>
+    </nav>
+</header>
+
+<section class="content">
+    <h2>Our Services</h2>
+
+    <div class="cards">
+        <div class="card">
+            <h3>HTML</h3>
+            <p>Baro sida website-ka loo dhiso.</p>
+        </div>
+
+        <div class="card">
+            <h3>CSS</h3>
+            <p>Baro sida website-ka loo qurxiyo.</p>
+        </div>
+
+        <div class="card">
+            <h3>JavaScript</h3>
+            <p>Baro sida website-ka looga dhigo interactive.</p>
+        </div>
+
+        <div class="card">
+            <h3>Web Design</h3>
+            <p>Samee design casri ah oo soo jiidasho leh.</p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 activity </p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery - activity </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>activity </h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="blog.html">Blog</a>
+        <a href="faq.html">FAQ</a>
+        <a href="team.html">Team</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="contact.html">Contact</a>
+        <a href="login.html">Login</a>
+    </nav>
+</header>
+
+<section class="content">
+    <h2>Our Gallery</h2>
+
+    <div class="cards">
+        <div class="card">
+            <h3>💻 Coding</h3>
+            <p>Barashada coding-ka.</p>
+        </div>
+
+        <div class="card">
+            <h3>🌐 Website</h3>
+            <p>Dhisidda website-yada.</p>
+        </div>
+
+        <div class="card">
+            <h3>🎨 Design</h3>
+            <p>Website design.</p>
+        </div>
+
+        <div class="card">
+            <h3>📱 Technology</h3>
+            <p>Teknoolojiyadda casriga ah.</p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 activity </p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog - activity </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>activity </h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="blog.html">Blog</a>
+        <a href="faq.html">FAQ</a>
+        <a href="team.html">Team</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="contact.html">Contact</a>
+        <a href="login.html">Login</a>
+    </nav>
+</header>
+
+<section class="content">
+    <h2>Our Blog</h2>
+
+    <div class="cards">
+        <div class="card">
+            <h3>HTML Waa Maxay?</h3>
+            <p>HTML waa luqadda aasaaska u ah website-ka.</p>
+        </div>
+
+        <div class="card">
+            <h3>CSS Waa Maxay?</h3>
+            <p>CSS waxaa loo isticmaalaa qurxinta website-ka.</p>
+        </div>
+
+        <div class="card">
+            <h3>JavaScript</h3>
+            <p>JavaScript wuxuu website-ka ka dhigaa mid firfircoon.</p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 activity </p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ - activity </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>activity </h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="blog.html">Blog</a>
+        <a href="faq.html">FAQ</a>
+        <a href="team.html">Team</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="contact.html">Contact</a>
+        <a href="login.html">Login</a>
+    </nav>
+</header>
+
+<section class="content">
+    <h2>Frequently Asked Questions</h2>
+
+    <div class="card">
+        <h3>Website maxaa lagu sameeyaa?</h3>
+        <p>Waxaa lagu sameyn karaa HTML, CSS iyo JavaScript.</p>
+    </div>
+
+    <br>
+
+    <div class="card">
+        <h3>HTML ma adag tahay?</h3>
+        <p>Maya. HTML waa mid ka mid ah meelaha ugu fiican ee laga bilaabo Web Development.</p>
+    </div>
+
+    <br>
+
+    <div class="card">
+        <h3>CSS maxaa loo isticmaalaa?</h3>
+        <p>CSS waxaa website-ka loogu daraa midab, cabbir, layout iyo qurux.</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 activity </p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team - activity </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>activity </h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="blog.html">Blog</a>
+        <a href="faq.html">FAQ</a>
+        <a href="team.html">Team</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="contact.html">Contact</a>
+        <a href="login.html">Login</a>
+    </nav>
+</header>
+
+<section class="content">
+    <h2>Our Team</h2>
+
+    <div class="cards">
+        <div class="card">
+            <h3>👨‍💻 Ahmed</h3>
+            <p>Web Developer</p>
+        </div>
+
+        <div class="card">
+            <h3>👩‍💻 Amina</h3>
+            <p>Web Designer</p>
+        </div>
+
+        <div class="card">
+            <h3>👨‍💼 Hassan</h3>
+            <p>Project Manager</p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Somali Tech</p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Somali Tech</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Somali Tech</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="blog.html">Blog</a>
+        <a href="faq.html">FAQ</a>
+        <a href="team.html">Team</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="contact.html">Contact</a>
+        <a href="login.html">Login</a>
+    </nav>
+</header>
+
+<section class="content">
+    <h2>Our Portfolio</h2>
+
+    <div class="cards">
+        <div class="card">
+            <h3>Website Project</h3>
+            <p>Website ganacsi oo casri ah.</p>
+        </div>
+
+        <div class="card">
+            <h3>School Website</h3>
+            <p>Website loogu talagalay iskuul.</p>
+        </div>
+
+        <div class="card">
+            <h3>Personal Website</h3>
+            <p>Website qofeed oo portfolio ah.</p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Somali Tech</p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Somali Tech</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>activity </h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="blog.html">Blog</a>
+        <a href="faq.html">FAQ</a>
+        <a href="team.html">Team</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="contact.html">Contact</a>
+        <a href="login.html">Login</a>
+    </nav>
+</header>
+
+<section class="content">
+    <h2>Contact Us</h2>
+
+    <div class="card">
+        <form>
+            <input type="text" placeholder="Magacaaga" required>
+            <br><br>
+
+            <input type="email" placeholder="Email-kaaga" required>
+            <br><br>
+
+            <textarea placeholder="Fariintaada" rows="6"></textarea>
+            <br><br>
+
+            <button class="btn" type="submit">Dir Fariinta</button>
+        </form>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 activity </p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Somali Tech</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>activity </h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="blog.html">Blog</a>
+        <a href="faq.html">FAQ</a>
+        <a href="team.html">Team</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="contact.html">Contact</a>
+        <a href="login.html">Login</a>
+    </nav>
+</header>
+
+<section class="content">
+    <h2>Login</h2>
+
+    <div class="card">
+        <form>
+            <input type="email" placeholder="Email-kaaga" required>
+            <br><br>
+
+            <input type="password" placeholder="Password-kaaga" required>
+            <br><br>
+
+            <button class="btn" type="submit">Login</button>
+        </form>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Somali Tech</p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Courses - SomaliTech</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<div class="container navbar">
+<a class="logo" href="index.html">Somali<span>Tech</span></a>
+<button class="menu-btn">☰</button>
+
+<ul class="nav-links">
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="services.html">Services</a></li>
+<li><a href="courses.html">Courses</a></li>
+<li><a href="students.html">Students</a></li>
+<li><a href="pricing.html">Pricing</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+</header>
+
+<section class="page-hero">
+<div class="container">
+<h1>Our Courses</h1>
+<p>Baro xirfado technology oo muhiim ah.</p>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+<div class="cards">
+
+<div class="card reveal">
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80">
+<div class="card-body">
+<h3>HTML Course</h3>
+<p>Baro aasaaska HTML iyo sida page loo sameeyo.</p>
+<a class="btn" href="#">Bilow</a>
+</div>
+</div>
+
+<div class="card reveal">
+<img src="https://images.unsplash.com/photo-1504639725590-34d0984388bd?auto=format&fit=crop&w=900&q=80">
+<div class="card-body">
+<h3>CSS Course</h3>
+<p>Baro design, colors, cards iyo animations.</p>
+<a class="btn" href="#">Bilow</a>
+</div>
+</div>
+
+<div class="card reveal">
+<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=900&q=80">
+<div class="card-body">
+<h3>JavaScript</h3>
+<p>Website-ka ka dhig interactive.</p>
+<a class="btn" href="#">Bilow</a>
+</div>
+</div>
+
+</div>
+</div>
+</section>
+
+<footer>
+<div class="container copyright">© 2026 SomaliTech</div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Students - SomaliTech</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<div class="container navbar">
+<a class="logo" href="index.html">Somali<span>Tech</span></a>
+<button class="menu-btn">☰</button>
+
+<ul class="nav-links">
+<li><a href="index.html">Home</a></li>
+<li><a href="courses.html">Courses</a></li>
+<li><a href="students.html">Students</a></li>
+<li><a href="pricing.html">Pricing</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+</header>
+
+<section class="page-hero">
+<div class="container">
+<h1>Students</h1>
+<p>Ardayda wax ka baranaysa SomaliTech.</p>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+
+<div class="cards">
+
+<div class="card simple-card reveal">
+<div class="icon">👨‍🎓</div>
+<h3>Ahmed</h3>
+<p>HTML & CSS Student</p>
+</div>
+
+<div class="card simple-card reveal">
+<div class="icon">👩‍🎓</div>
+<h3>Amina</h3>
+<p>Web Design Student</p>
+</div>
+
+<div class="card simple-card reveal">
+<div class="icon">👨‍💻</div>
+<h3>Mohamed</h3>
+<p>JavaScript Student</p>
+</div>
+
+</div>
+
+</div>
+</section>
+
+<footer>
+<div class="container copyright">© 2026 SomaliTech</div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pricing - SomaliTech</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<div class="container navbar">
+<a class="logo" href="index.html">Somali<span>Tech</span></a>
+<button class="menu-btn">☰</button>
+
+<ul class="nav-links">
+<li><a href="index.html">Home</a></li>
+<li><a href="courses.html">Courses</a></li>
+<li><a href="pricing.html">Pricing</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+</header>
+
+<section class="page-hero">
+<div class="container">
+<h1>Pricing</h1>
+<p>Dooro qorshaha kugu habboon.</p>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+
+<div class="cards">
+
+<div class="card simple-card reveal">
+<h3>Free</h3>
+<h2>$0</h2>
+<p>HTML Basics</p>
+<p>CSS Basics</p>
+<p>Basic Projects</p>
+<br>
+<a class="btn" href="register.html">Dooro</a>
+</div>
+
+<div class="card simple-card reveal">
+<h3>Standard</h3>
+<h2>$10</h2>
+<p>HTML</p>
+<p>CSS</p>
+<p>JavaScript</p>
+<p>Projects</p>
+<br>
+<a class="btn" href="register.html">Dooro</a>
+</div>
+
+<div class="card simple-card reveal">
+<h3>Premium</h3>
+<h2>$20</h2>
+<p>Dhammaan Courses</p>
+<p>Projects</p>
+<p>Support</p>
+<p>Certificate</p>
+<br>
+<a class="btn" href="register.html">Dooro</a>
+</div>
+
+</div>
+</div>
+</section>
+
+<footer>
+<div class="container copyright">© 2026 SomaliTech</div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Testimonials - SomaliTech</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<div class="container navbar">
+<a class="logo" href="index.html">Somali<span>Tech</span></a>
+<button class="menu-btn">☰</button>
+<ul class="nav-links">
+<li><a href="index.html">Home</a></li>
+<li><a href="courses.html">Courses</a></li>
+<li><a href="testimonials.html">Testimonials</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+</header>
+
+<section class="page-hero">
+<div class="container">
+<h1>Testimonials</h1>
+<p>Waxa ay ardaydu naga yiraahdeen.</p>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+<div class="cards">
+
+<div class="card simple-card reveal">
+<div class="icon">⭐</div>
+<h3>Ahmed</h3>
+<p>"Waxaan HTML ku bartay waqti gaaban."</p>
+</div>
+
+<div class="card simple-card reveal">
+<div class="icon">⭐</div>
+<h3>Fatima</h3>
+<p>"CSS-ka ayaan hadda si fiican u fahmay."</p>
+</div>
+
+<div class="card simple-card reveal">
+<div class="icon">⭐</div>
+<h3>Ali</h3>
+<p>"Waxaan sameeyay website-kaygii ugu horreeyay."</p>
+</div>
+
+</div>
+</div>
+</section>
+
+<footer>
+<div class="container copyright">© 2026 SomaliTech</div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Events - SomaliTech</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<div class="container navbar">
+<a class="logo" href="index.html">Somali<span>Tech</span></a>
+<button class="menu-btn">☰</button>
+<ul class="nav-links">
+<li><a href="index.html">Home</a></li>
+<li><a href="courses.html">Courses</a></li>
+<li><a href="events.html">Events</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+</header>
+
+<section class="page-hero">
+<div class="container">
+<h1>Events</h1>
+<p>Dhacdooyinka iyo casharrada gaarka ah.</p>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+
+<div class="cards">
+
+<div class="card simple-card reveal">
+<div class="icon">📅</div>
+<h3>HTML Workshop</h3>
+<p>Baro HTML si toos ah.</p>
+<p><strong>10 September 2026</strong></p>
+</div>
+
+<div class="card simple-card reveal">
+<div class="icon">🎨</div>
+<h3>CSS Workshop</h3>
+<p>Samee website professional ah.</p>
+<p><strong>15 September 2026</strong></p>
+</div>
+
+<div class="card simple-card reveal">
+<div class="icon">🚀</div>
+<h3>Web Project Day</h3>
+<p>Dhiso website dhammeystiran.</p>
+<p><strong>20 September 2026</strong></p>
+</div>
+
+</div>
+</div>
+</section>
+
+<footer>
+<div class="container copyright">© 2026 SomaliTech</div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>News - SomaliTech</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<div class="container navbar">
+<a class="logo" href="index.html">Somali<span>Tech</span></a>
+<button class="menu-btn">☰</button>
+<ul class="nav-links">
+<li><a href="index.html">Home</a></li>
+<li><a href="news.html">News</a></li>
+<li><a href="blog.html">Blog</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+</header>
+
+<section class="page-hero">
+<div class="container">
+<h1>News</h1>
+<p>Wararkii ugu dambeeyay ee SomaliTech.</p>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+
+<div class="cards">
+
+<div class="card reveal">
+<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80">
+<div class="card-body">
+<h3>Course Cusub</h3>
+<p>Waxaa la bilaabay casharro cusub oo Web Development ah.</p>
+</div>
+</div>
+
+<div class="card reveal">
+<img src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=80">
+<div class="card-body">
+<h3>Workshop</h3>
+<p>Workshop cusub ayaa loo diyaariyay ardayda.</p>
+</div>
+</div>
+
+<div class="card reveal">
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=900&q=80">
+<div class="card-body">
+<h3>New Projects</h3>
+<p>Ardaydu waxay bilaabeen projects cusub.</p>
+</div>
+</div>
+
+</div>
+</div>
+</section>
+
+<footer>
+<div class="container copyright">© 2026 SomaliTech</div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Resources - SomaliTech</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<div class="container navbar">
+<a class="logo" href="index.html">Somali<span>Tech</span></a>
+<button class="menu-btn">☰</button>
+<ul class="nav-links">
+<li><a href="index.html">Home</a></li>
+<li><a href="courses.html">Courses</a></li>
+<li><a href="resources.html">Resources</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+</header>
+
+<section class="page-hero">
+<div class="container">
+<h1>Resources</h1>
+<p>Waxyaabaha kaa caawinaya barashada coding.</p>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+
+<div class="cards">
+
+<div class="card simple-card reveal">
+<div class="icon">📘</div>
+<h3>HTML Notes</h3>
+<p>Qoraallo kaa caawinaya inaad fahanto HTML.</p>
+<a class="btn" href="#">Open</a>
+</div>
+
+<div class="card simple-card reveal">
+<div class="icon">📗</div>
+<h3>CSS Notes</h3>
+<p>Baro CSS properties iyo layouts.</p>
+<a class="btn" href="#">Open</a>
+</div>
+
+<div class="card simple-card reveal">
+<div class="icon">💻</div>
+<h3>Code Examples</h3>
+<p>Tusaalooyin code ah oo aad ku tababaran karto.</p>
+<a class="btn" href="#">Open</a>
+</div>
+
+</div>
+</div>
+</section>
+
+<footer>
+<div class="container copyright">© 2026 SomaliTech</div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard - SomaliTech</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<div class="container navbar">
+<a class="logo" href="index.html">Somali<span>Tech</span></a>
+<button class="menu-btn">☰</button>
+<ul class="nav-links">
+<li><a href="index.html">Home</a></li>
+<li><a href="courses.html">Courses</a></li>
+<li><a href="dashboard.html">Dashboard</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+</header>
+
+<section class="page-hero">
+<div class="container">
+<h1>Dashboard</h1>
+<p>Ku arag horumarkaaga waxbarasho.</p>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+
+<div class="stats">
+<div class="stat reveal">
+<h3>5</h3>
+<p>Courses</p>
+</div>
+
+<div class="stat reveal">
+<h3>18</h3>
+<p>Lessons</p>
+</div>
+
+<div class="stat reveal">
+<h3>7</h3>
+<p>Projects</p>
+</div>
+
+<div class="stat reveal">
+<h3>75%</h3>
+<p>Progress</p>
+</div>
+</div>
+
+<br><br>
+
+<div class="card simple-card reveal">
+<h3>Horumarkaaga</h3>
+<p>HTML — 90%</p>
+<p>CSS — 70%</p>
+<p>JavaScript — 45%</p>
+</div>
+
+</div>
+</section>
+
+<footer>
+<div class="container copyright">© 2026 SomaliTech</div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Register - SomaliTech</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<div class="container navbar">
+<a class="logo" href="index.html">Somali<span>Tech</span></a>
+<button class="menu-btn">☰</button>
+<ul class="nav-links">
+<li><a href="index.html">Home</a></li>
+<li><a href="courses.html">Courses</a></li>
+<li><a href="register.html">Register</a></li>
+<li><a href="login.html">Login</a></li>
+</ul>
+</div>
+</header>
+
+<section class="page-hero">
+<div class="container">
+<h1>Create Account</h1>
+<p>Samee account cusub.</p>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+
+<div class="form-box reveal">
+
+<form onsubmit="event.preventDefault(); alert('Account-ka waa la sameeyay!');">
+
+<div class="form-group">
+<label>Magaca</label>
+<input type="text" placeholder="Magacaaga" required>
+</div>
+
+<div class="form-group">
+<label>Email</label>
+<input type="email" placeholder="email@example.com" required>
+</div>
+
+<div class="form-group">
+<label>Password</label>
+<input type="password" placeholder="Password" required>
+</div>
+
+<div class="form-group">
+<label>Confirm Password</label>
+<input type="password" placeholder="Ku celi password-ka" required>
+</div>
+
+<button class="btn" type="submit">Register</button>
+
+</form>
+
+</div>
+</div>
+</section>
+
+<footer>
+<div class="container copyright">© 2026 SomaliTech</div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="so">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Support - SomaliTech</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<div class="container navbar">
+<a class="logo" href="index.html">Somali<span>Tech</span></a>
+<button class="menu-btn">☰</button>
+
+<ul class="nav-links">
+<li><a href="index.html">Home</a></li>
+<li><a href="courses.html">Courses</a></li>
+<li><a href="support.html">Support</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+</header>
+
+<section class="page-hero">
+<div class="container">
+<h1>Support</h1>
+<p>Haddii aad caawimaad u baahan tahay nala soo xiriir.</p>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+
+<div class="form-box reveal">
+
+<form onsubmit="event.preventDefault(); alert('Codsigaaga support-ka waa la diray!');">
+
+<div class="form-group">
+<label>Magaca</label>
+<input type="text" placeholder="Magacaaga" required>
+</div>
+
+<div class="form-group">
+<label>Email</label>
+<input type="email" placeholder="Email-kaaga" required>
+</div>
+
+<div class="form-group">
+<label>Problem-ka</label>
+<select>
+<option>Website</option>
+<option>Course</option>
+<option>Account</option>
+<option>Other</option>
+</select>
+</div>
+
+<div class="form-group">
+<label>Fariinta</label>
+<textarea rows="6" placeholder="Sharax dhibaatada..." required></textarea>
+</div>
+
+<button class="btn" type="submit">Send Support</button>
+
+</form>
+
+</div>
+</div>
+</section>
+
+<footer>
+<div class="container copyright">© 2026 SomaliTech</div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
