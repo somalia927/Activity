@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="so">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activinty - Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>activity</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="services.html">Services</a>
+            <a href="gallery.html">Gallery</a>
+            <a href="blog.html">Blog</a>
+            <a href="faq.html">FAQ</a>
+            <a href="team.html">Team</a>
+            <a href="portfolio.html">Portfolio</a>
+            <a href="contact.html">Contact</a>
+            <a href="login.html">Login</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Ku Soo Dhawoow Somali Tech</h2>
+        <p>Baro Web Development iyo Teknoolojiyada Casriga ah.</p>
+        <a class="btn" href="about.html">Wax badan ogow</a>
+    </section>
+
+    <section class="content">
+        <h2>Maxaan bixinaa?</h2>
+        <div class="cards">
+            <div class="card">
+                <h3>Web Development</h3>
+                <p>Waxaan ku baraynaa sida website loo sameeyo.</p>
+            </div>
+            <div class="card">
+                <h3>Programming</h3>
+                <p>Baro aasaaska programming-ka.</p>
+            </div>
+            <div class="card">
+                <h3>Design</h3>
+                <p>Samee website qurux badan oo casri ah.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 activinty</p>
+    </footer>
+
+</body>
+</html>
