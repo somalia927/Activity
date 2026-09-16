@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="so">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Computer Basics</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f6fa;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      color: #1677ff;
+    }
+
+    .lesson {
+      background: white;
+      padding: 18px;
+      margin: 15px 0;
+      border-radius: 12px;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    }
+
+    .lesson h2 {
+      color: #1677ff;
+      margin-top: 0;
+    }
+
+    .lesson p {
+      font-size: 16px;
+      line-height: 1.7;
+    }
+
+    .back {
+      display: block;
+      text-align: center;
+      background: #1677ff;
+      color: white;
+      padding: 13px;
+      border-radius: 10px;
+      text-decoration: none;
+      margin-top: 25px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>💻 Computer Basics</h1>
+
+  <div class="lesson">
+    <h2>Casharka 1: Computer waa maxay?</h2>
+    <p>
+      Computer waa qalab elektaroonig ah oo lagu kaydiyo, lagu farsameeyo
+      laguna soo bandhigo xog. Waxaa loo isticmaalaa waxbarasho, shaqo,
+      internet, qoraal iyo hawlo kale oo badan.
+    </p>
+  </div>
+
+  <div class="lesson">
+    <h2>Casharka 2: Qaybaha Computer-ka</h2>
+    <p>
+      Qaybaha muhiimka ah waxaa ka mid ah Monitor, Keyboard, Mouse iyo
+      System Unit. Mid kasta wuxuu leeyahay shaqo gaar ah.
+    </p>
+  </div>
+
+  <div class="lesson">
+    <h2>Casharka 3: Keyboard-ka</h2>
+    <p>
+      Keyboard waa qalabka lagu qoro xarfo, tirooyin iyo calaamado.
+      Waxaa ka mid ah furayaasha Enter, Space, Backspace iyo Shift.
+    </p>
+  </div>
+
+  <div class="lesson">
+    <h2>Casharka 4: Mouse-ka</h2>
+    <p>
+      Mouse waxaa loo isticmaalaa in lagu dhaqaajiyo cursor-ka, lagu
+      doorto waxyaabaha ku jira screen-ka, laguna furo files iyo programs.
+    </p>
+  </div>
+
+  <div class="lesson">
+    <h2>Casharka 5: Files iyo Folders</h2>
+    <p>
+      File waa xog ama document lagu kaydiyo computer-ka. Folder-na
+      waxaa loo isticmaalaa in lagu habeeyo oo lagu kaydiyo files.
+    </p>
+  </div>
+
+  <div class="lesson">
+    <h2>Casharka 6: Windows iyo Desktop</h2>
+    <p>
+      Desktop waa meesha ugu weyn ee aad aragto marka computer-ka la shido.
+      Windows-na waa operating system loo isticmaalo maamulidda computer-ka.
+    </p>
+  </div>
+
+  <div class="lesson">
+    <h2>Casharka 7: Internet-ka</h2>
+    <p>
+      Internet waa shabakad weyn oo isku xirta computers iyo qalab kale.
+      Waxaa loo isticmaalaa raadinta macluumaad, waxbarasho iyo isgaarsiinta.
+    </p>
+  </div>
+
+  <div class="lesson">
+    <h2>Casharka 8: Amniga Computer-ka</h2>
+    <p>
+      Si computer-ka loo ilaaliyo, isticmaal passwords adag, ha furin
+      files aanad garanayn, hana la wadaagin password-kaaga dadka kale.
+    </p>
+  </div>
+
+  <div class="lesson">
+    <h2>Casharka 9: Microsoft Word</h2>
+    <p>
+      Microsoft Word waa program loo isticmaalo qorista iyo habaynta
+      documents sida waraaqaha, casharrada iyo reports.
+    </p>
+  </div>
+
+  <div class="lesson">
+    <h2>Casharka 10: Microsoft Excel</h2>
+    <p>
+      Microsoft Excel waa program lagu sameeyo tables, xisaab iyo
+      xog habaysan. Waxaa lagu shaqeeyaa rows iyo columns.
+    </p>
+  </div>
+
+  <a class="back" href="index.html">⬅️ Ku noqo Bogga Hore</a>
+
+</body>
+</html>

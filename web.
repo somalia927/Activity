@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="so">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Web Development</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f6fa;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      color: #1677ff;
+    }
+
+    .lesson {
+      background: white;
+      padding: 18px;
+      margin: 15px 0;
+      border-radius: 12px;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    }
+
+    .lesson h2 {
+      color: #1677ff;
+      margin-top: 0;
+    }
+
+    .lesson p {
+      font-size: 16px;
+      line-height: 1.7;
+    }
+
+    pre {
+      background: #222;
+      color: white;
+      padding: 15px;
+      border-radius: 8px;
+      overflow-x: auto;
+    }
+
+    .back {
+      display: block;
+      text-align: center;
+      background: #1677ff;
+      color: white;
+      padding: 13px;
+      border-radius: 10px;
+      text-decoration: none;
+      margin-top: 25px;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>🌐 Web Development</h1>
+
+<div class="lesson">
+  <h2>Casharka 1: Web Development waa maxay?</h2>
+  <p>
+    Web Development waa samaynta iyo horumarinta websites iyo web apps.
+    Waxaa muhiim u ah HTML, CSS iyo JavaScript.
+  </p>
+</div>
+
+<div class="lesson">
+  <h2>Casharka 2: HTML</h2>
+  <p>
+    HTML waxaa loo isticmaalaa dhismaha website-ka. Waxaad ku samayn
+    kartaa headings, paragraphs, buttons, images iyo links.
+  </p>
+
+  <pre>
+&lt;h1&gt;Salaan&lt;/h1&gt;
+&lt;p&gt;Kani waa website-kayga.&lt;/p&gt;
+  </pre>
+</div>
+
+<div class="lesson">
+  <h2>Casharka 3: Headings iyo Paragraphs</h2>
+  <p>
+    Headings waxaa loo isticmaalaa cinwaannada, paragraphs-na qoraalka.
+  </p>
+
+  <pre>
+&lt;h1&gt;Cinwaan weyn&lt;/h1&gt;
+&lt;h2&gt;Cinwaan kale&lt;/h2&gt;
+&lt;p&gt;Qoraalka website-ka.&lt;/p&gt;
+  </pre>
+</div>
+
+<div class="lesson">
+  <h2>Casharka 4: Links</h2>
+  <p>
+    Link waxaa lagu xiriirin karaa bogag kala duwan.
+  </p>
+
+  <pre>
+&lt;a href="index.html"&gt;Bogga Hore&lt;/a&gt;
+  </pre>
+</div>
+
+<div class="lesson">
+  <h2>Casharka 5: Images</h2>
+  <p>
+    HTML waxaa lagu dari karaa sawirro iyadoo la isticmaalayo
+    element-ka img.
+  </p>
+
+  <pre>
+&lt;img src="sawir.jpg" alt="Sawir"&gt;
+  </pre>
+</div>
+
+<div class="lesson">
+  <h2>Casharka 6: CSS</h2>
+  <p>
+    CSS waxaa loo isticmaalaa qurxinta website-ka, sida midabada,
+    cabbirka qoraalka, background-ka iyo layout-ka.
+  </p>
+
+  <pre>
+body {
+  background: lightblue;
+}
+
+h1 {
+  color: blue;
+}
+  </pre>
+</div>
+
+<div class="lesson">
+  <h2>Casharka 7: Buttons</h2>
+  <p>
+    Button waxaa loo isticmaalaa in user-ku uu sameeyo action.
+  </p>
+
+  <pre>
+&lt;button&gt;Guji Halkan&lt;/button&gt;
+  </pre>
+</div>
+
+<div class="lesson">
+  <h2>Casharka 8: JavaScript</h2>
+  <p>
+    JavaScript wuxuu website-ka ka dhigayaa mid interactive ah,
+    tusaale ahaan button marka la gujiyo inuu sameeyo wax.
+  </p>
+
+  <pre>
+&lt;button onclick="salaan()"&gt;Guji&lt;/button&gt;
+
+&lt;script&gt;
+function salaan() {
+  alert("Salaan!");
+}
+&lt;/script&gt;
+  </pre>
+</div>
+
+<div class="lesson">
+  <h2>Casharka 9: Responsive Website</h2>
+  <p>
+    Responsive design wuxuu website-ka ka dhigaa inuu si fiican uga
+    shaqeeyo telefoon, tablet iyo computer.
+  </p>
+
+  <pre>
+@media (max-width: 600px) {
+  h1 {
+    font-size: 25px;
+  }
+}
+  </pre>
+</div>
+
+<div class="lesson">
+  <h2>Casharka 10: Samee Website-kaaga</h2>
+  <p>
+    Hadda waxaad isku dari kartaa HTML, CSS iyo JavaScript si aad
+    u samayso website dhamaystiran.
+  </p>
+
+  <pre>
+HTML = Dhismaha 🏗️
+CSS = Qurxinta 🎨
+JavaScript = Dhaqdhaqaaqa ⚡
+  </pre>
+</div>
+
+<a class="back" href="index.html">⬅️ Ku noqo Bogga Hore</a>
+
+</body>
+</html>

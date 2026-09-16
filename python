@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="so">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Python Programming</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f6fa;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      color: #1677ff;
+    }
+
+    .lesson {
+      background: white;
+      padding: 18px;
+      margin: 15px 0;
+      border-radius: 12px;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    }
+
+    .lesson h2 {
+      color: #1677ff;
+      margin-top: 0;
+    }
+
+    .lesson p {
+      font-size: 16px;
+      line-height: 1.7;
+    }
+
+    pre {
+      background: #222;
+      color: #fff;
+      padding: 15px;
+      border-radius: 8px;
+      overflow-x: auto;
+    }
+
+    .back {
+      display: block;
+      text-align: center;
+      background: #1677ff;
+      color: white;
+      padding: 13px;
+      border-radius: 10px;
+      text-decoration: none;
+      margin-top: 25px;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>🐍 Python Programming</h1>
+
+<div class="lesson">
+  <h2>Casharka 1: Python waa maxay?</h2>
+  <p>
+    Python waa luuqad programming ah oo loo isticmaalo samaynta
+    programs, websites, automation iyo barnaamijyo kale.
+  </p>
+</div>
+
+<div class="lesson">
+  <h2>Casharka 2: Python Setup</h2>
+  <p>
+    Si aad Python u barato waxaad u baahan tahay meel aad ku qorto
+    oo aad ku tijaabiso code-ka Python.
+  </p>
+</div>
+
+<div class="lesson">
+  <h2>Casharka 3: Print</h2>
+  <p>
+    <b>print()</b> waxaa loo isticmaalaa in lagu soo bandhigo qoraal
+    ama xog.
+  </p>
+
+  <pre>print("Salaan!")</pre>
+</div>
+
+<div class="lesson">
+  <h2>Casharka 4: Variables</h2>
+  <p>
+    Variable waa meel lagu kaydiyo xog. Tusaale ahaan magaca qof.
+  </p>
+
+  <pre>
+name = "Ahmed"
+age = 15
+
+print(name)
+print(age)
+  </pre>
+</div>
+
+<div class="lesson">
+  <h2>Casharka 5: Numbers</h2>
+  <p>
+    Python wuxuu qaban karaa xisaabo sida isku-dar, kala-jar,
+    isku-dhufo iyo qaybinta.
+  </p>
+
+  <pre>
+a = 10
+b = 5
+
+print(a + b)
+print(a - b)
+print(a *
